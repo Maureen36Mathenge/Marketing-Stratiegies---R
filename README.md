@@ -1,1 +1,1 @@
-# Marketing-Stratiegies---R
+# Marketing-Strategies---R
